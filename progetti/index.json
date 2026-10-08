@@ -183,6 +183,12 @@
       "nome": "= base 2 posizionale",
       "cartella": "cartella-muldtk0m-qwgpbl",
       "descrizione": ""
+    },
+    {
+      "file": "base-2-evo.json",
+      "nome": "= base 2 evo",
+      "cartella": "cartella-muldtk0m-qwgpbl",
+      "descrizione": "Perde solo su 0=0 e su prima cifra diversa"
     }
   ]
 }
