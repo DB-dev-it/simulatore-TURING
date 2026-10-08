@@ -1,0 +1,42 @@
+{
+  "nome": "Stringa ab, togli B",
+  "stato": "0",
+  "alfabeto": [
+    "A",
+    "B",
+    "P",
+    "*"
+  ],
+  "stati": [
+    "0",
+    "1",
+    "2",
+    "3"
+  ],
+  "transizioni": {
+    "0|A": "A,0,D",
+    "0|B": "P,1,D",
+    "0|P": "",
+    "0|*": "*,FINE,D",
+    "1|A": "A,1,D",
+    "1|B": "B,1,D",
+    "1|P": "",
+    "1|*": "*,2,S",
+    "2|A": "*,3,S",
+    "2|B": "*,2,S",
+    "2|P": "*,FINE,S",
+    "2|*": "",
+    "3|A": "A,3,S",
+    "3|B": "B,3,S",
+    "3|P": "A,0,D",
+    "3|*": "",
+    "FINE|A": "",
+    "FINE|B": "",
+    "FINE|P": "",
+    "FINE|*": ""
+  },
+  "posizioneIniziale": 0,
+  "nastro": "AABBB",
+  "descrizione": "",
+  "cartella": "cartella-mulccgaq-rftnl8"
+}
