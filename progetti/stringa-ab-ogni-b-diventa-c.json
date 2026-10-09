@@ -1,0 +1,27 @@
+{
+  "nome": "Stringa ab, ogni B diventa c",
+  "stato": "0",
+  "alfabeto": [
+    "A",
+    "B",
+    "C",
+    "*"
+  ],
+  "stati": [
+    "0"
+  ],
+  "transizioni": {
+    "0|A": "A,0,D",
+    "0|B": "C,0,D",
+    "0|C": "",
+    "0|*": "*,0,D",
+    "FINE|A": "",
+    "FINE|B": "",
+    "FINE|C": "",
+    "FINE|*": ""
+  },
+  "posizioneIniziale": 0,
+  "nastro": "ABBABABA",
+  "descrizione": "",
+  "cartella": "cartella-mulccgaq-rftnl8"
+}
