@@ -189,6 +189,12 @@
       "nome": "= base 2 evo",
       "cartella": "cartella-muldtk0m-qwgpbl",
       "descrizione": "Perde solo su 0=0 e su prima cifra diversa"
+    },
+    {
+      "file": "stringa-ab-ogni-b-diventa-c.json",
+      "nome": "Stringa ab, ogni B diventa c",
+      "cartella": "cartella-mulccgaq-rftnl8",
+      "descrizione": ""
     }
   ]
 }
