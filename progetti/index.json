@@ -195,6 +195,12 @@
       "nome": "Stringa ab, ogni B diventa c",
       "cartella": "cartella-mulccgaq-rftnl8",
       "descrizione": ""
+    },
+    {
+      "file": "stringa-ab-togli-ultimi-2.json",
+      "nome": "Stringa ab, togli ultimi 2",
+      "cartella": "cartella-mulccgaq-rftnl8",
+      "descrizione": ""
     }
   ]
 }
