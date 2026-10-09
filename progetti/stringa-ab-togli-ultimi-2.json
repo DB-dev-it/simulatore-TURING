@@ -1,0 +1,32 @@
+{
+  "nome": "Stringa ab, togli ultimi 2",
+  "stato": "0",
+  "alfabeto": [
+    "A",
+    "B",
+    "*"
+  ],
+  "stati": [
+    "0",
+    "1",
+    "2"
+  ],
+  "transizioni": {
+    "0|A": "A,0,D",
+    "0|B": "B,0,D",
+    "0|*": "*,1,S",
+    "1|A": "*,2,S",
+    "1|B": "*,2,S",
+    "1|*": "*,FINE,S",
+    "2|A": "*,FINE,S",
+    "2|B": "*,FINE,S",
+    "2|*": "*,FINE,S",
+    "FINE|A": "",
+    "FINE|B": "",
+    "FINE|*": ""
+  },
+  "posizioneIniziale": 0,
+  "nastro": "ABBABABA",
+  "descrizione": "",
+  "cartella": "cartella-mulccgaq-rftnl8"
+}
