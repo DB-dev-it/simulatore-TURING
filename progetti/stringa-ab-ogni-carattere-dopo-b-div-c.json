@@ -1,0 +1,32 @@
+{
+  "nome": "Stringa ab, ogni carattere dopo B div C",
+  "stato": "0",
+  "alfabeto": [
+    "A",
+    "B",
+    "C",
+    "*"
+  ],
+  "stati": [
+    "0",
+    "1"
+  ],
+  "transizioni": {
+    "0|A": "A,0,D",
+    "0|B": "B,1,D",
+    "0|C": "",
+    "0|*": "*,FINE, D",
+    "1|A": "C,0,D",
+    "1|B": "C,1,D",
+    "1|C": "",
+    "1|*": "C,FINE, D",
+    "FINE|A": "",
+    "FINE|B": "",
+    "FINE|C": "",
+    "FINE|*": ""
+  },
+  "posizioneIniziale": 0,
+  "nastro": "ABBABABA",
+  "descrizione": "",
+  "cartella": "cartella-mulccgaq-rftnl8"
+}
