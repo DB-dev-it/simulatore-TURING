@@ -260,6 +260,12 @@
       "nome": "specchio separato",
       "cartella": "cartella-mv59sh00-v7u3wr",
       "descrizione": "con un simbolo a dividere l'originale dallo specchiato"
+    },
+    {
+      "file": "distanza-di-hamming.json",
+      "nome": "distanza di hamming",
+      "cartella": "cartella-mv59sh00-v7u3wr",
+      "descrizione": "dati 2 numeri binari lunghi uguale conta in unario quante poisizioni hanno rispettivamente lo stesso valore"
     }
   ]
 }
