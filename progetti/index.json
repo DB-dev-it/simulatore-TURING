@@ -248,6 +248,12 @@
       "nome": "conta a e b in base 1",
       "cartella": "cartella-mv59sh00-v7u3wr",
       "descrizione": "AAABBBAB=111A111B1A1B"
+    },
+    {
+      "file": "specchio.json",
+      "nome": "specchio",
+      "cartella": "cartella-mv59sh00-v7u3wr",
+      "descrizione": "101: 101101"
     }
   ]
 }
