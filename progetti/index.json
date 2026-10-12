@@ -266,6 +266,12 @@
       "nome": "distanza di hamming",
       "cartella": "cartella-mv59sh00-v7u3wr",
       "descrizione": "dati 2 numeri binari lunghi uguale conta in unario quante poisizioni hanno rispettivamente lo stesso valore"
+    },
+    {
+      "file": "confronto.json",
+      "nome": "confronto",
+      "cartella": "cartella-muldtk0m-qwgpbl",
+      "descrizione": "</=/>"
     }
   ]
 }
