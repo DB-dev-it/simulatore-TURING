@@ -236,6 +236,12 @@
       "nome": "codice di Gray",
       "cartella": "cartella-mv59sh00-v7u3wr",
       "descrizione": "il primo bit resta uguale, ogni bit successivo diventa 1 se differisce dal bit precedente altrimenti resta 0"
+    },
+    {
+      "file": "elimina-doppioni.json",
+      "nome": "elimina doppioni",
+      "cartella": "cartella-mv59sh00-v7u3wr",
+      "descrizione": ""
     }
   ]
 }
