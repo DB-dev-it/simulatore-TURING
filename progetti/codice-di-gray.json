@@ -1,0 +1,28 @@
+{
+  "nome": "codice di Gray",
+  "stato": "0",
+  "alfabeto": [
+    "0",
+    "1",
+    "*"
+  ],
+  "stati": [
+    "0",
+    "1"
+  ],
+  "transizioni": {
+    "0|0": "0,0,D",
+    "0|1": "1,1,D",
+    "0|*": "*,FINE,D",
+    "1|0": "1,0,D",
+    "1|1": "0,1,D",
+    "1|*": "*,FINE,D",
+    "FINE|0": "",
+    "FINE|1": "",
+    "FINE|*": ""
+  },
+  "posizioneIniziale": 0,
+  "nastro": "0000",
+  "descrizione": "il primo bit resta uguale, ogni bit successivo diventa 1 se differisce dal bit precedente altrimenti resta 0",
+  "cartella": "cartella-mv59sh00-v7u3wr"
+}
