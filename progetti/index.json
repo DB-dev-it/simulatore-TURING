@@ -268,8 +268,8 @@
       "descrizione": "dati 2 numeri binari lunghi uguale conta in unario quante poisizioni hanno rispettivamente lo stesso valore"
     },
     {
-      "file": "confronto.json",
-      "nome": "confronto",
+      "file": "confronto-base-2.json",
+      "nome": "confronto base 2",
       "cartella": "cartella-muldtk0m-qwgpbl",
       "descrizione": "</=/>"
     }
