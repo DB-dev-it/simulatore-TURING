@@ -254,6 +254,12 @@
       "nome": "specchio",
       "cartella": "cartella-mv59sh00-v7u3wr",
       "descrizione": "101: 101101"
+    },
+    {
+      "file": "specchio-separato.json",
+      "nome": "specchio separato",
+      "cartella": "cartella-mv59sh00-v7u3wr",
+      "descrizione": "con un simbolo a dividere l'originale dallo specchiato"
     }
   ]
 }
