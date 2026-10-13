@@ -277,6 +277,12 @@
       "nome": "confronto base 2",
       "cartella": "cartella-muldtk0m-qwgpbl",
       "descrizione": "</=/>"
+    },
+    {
+      "file": "5.json",
+      "nome": "5",
+      "cartella": "cartella-mv6gr3y1-rv507t",
+      "descrizione": "Stringa ab, scrivi 0 se a=b, 1 a>b, 2 a<b"
     }
   ]
 }
