@@ -1,0 +1,42 @@
+{
+  "nome": "4",
+  "stato": "0",
+  "alfabeto": [
+    "A",
+    "B",
+    "*",
+    "C"
+  ],
+  "stati": [
+    "0",
+    "1",
+    "2",
+    "3"
+  ],
+  "transizioni": {
+    "0|A": "A,0,D",
+    "0|B": "B,1,D",
+    "0|*": "*,FINE,D",
+    "0|C": "",
+    "1|A": "A,2,D",
+    "1|B": "B,3,D",
+    "1|*": "*,FINE,D",
+    "1|C": "",
+    "2|A": "C,0,D",
+    "2|B": "C,1,D",
+    "2|*": "C,FINE,D",
+    "2|C": "",
+    "3|A": "C,2,D",
+    "3|B": "C,3,D",
+    "3|*": "C,FINE,D",
+    "3|C": "",
+    "FINE|A": "",
+    "FINE|B": "",
+    "FINE|*": "",
+    "FINE|C": ""
+  },
+  "posizioneIniziale": 0,
+  "nastro": "AABBBBABABABBAB",
+  "descrizione": "Stringa ab, se c’è bb o ba il carattere dopo diventa c",
+  "cartella": "cartella-mv6gr3y1-rv507t"
+}
