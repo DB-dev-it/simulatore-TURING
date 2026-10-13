@@ -283,6 +283,12 @@
       "nome": "5",
       "cartella": "cartella-mv6gr3y1-rv507t",
       "descrizione": "Stringa ab, scrivi 0 se a=b, 1 a>b, 2 a<b"
+    },
+    {
+      "file": "4.json",
+      "nome": "4",
+      "cartella": "cartella-mv6gr3y1-rv507t",
+      "descrizione": "Stringa ab, se c’è bb o ba il carattere dopo diventa c"
     }
   ]
 }
