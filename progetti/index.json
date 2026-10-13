@@ -289,6 +289,12 @@
       "nome": "4",
       "cartella": "cartella-mv6gr3y1-rv507t",
       "descrizione": "Stringa ab, se c’è bb o ba il carattere dopo diventa c"
+    },
+    {
+      "file": "3.json",
+      "nome": "3",
+      "cartella": "cartella-mv6gr3y1-rv507t",
+      "descrizione": "+4, partenza da destra"
     }
   ]
 }
