@@ -301,6 +301,12 @@
       "nome": "2",
       "cartella": "cartella-mv6gr3y1-rv507t",
       "descrizione": "Stringa ab, togli secondo e terzo carattere"
+    },
+    {
+      "file": "1.json",
+      "nome": "1",
+      "cartella": "cartella-mv6gr3y1-rv507t",
+      "descrizione": "Stringa abc, tutto diventa b"
     }
   ]
 }
