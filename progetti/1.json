@@ -1,0 +1,27 @@
+{
+  "nome": "1",
+  "stato": "0",
+  "alfabeto": [
+    "A",
+    "B",
+    "C",
+    "*"
+  ],
+  "stati": [
+    "0"
+  ],
+  "transizioni": {
+    "0|A": "B,0,D",
+    "0|B": "B,0,D",
+    "0|C": "B,0,D",
+    "0|*": "*,FINE,D",
+    "FINE|A": "",
+    "FINE|B": "",
+    "FINE|C": "",
+    "FINE|*": ""
+  },
+  "posizioneIniziale": 0,
+  "nastro": "ABCACCABBCBACACB",
+  "descrizione": "Stringa abc, tutto diventa b",
+  "cartella": "cartella-mv6gr3y1-rv507t"
+}
