@@ -295,6 +295,12 @@
       "nome": "3",
       "cartella": "cartella-mv6gr3y1-rv507t",
       "descrizione": "+4, partenza da destra"
+    },
+    {
+      "file": "2.json",
+      "nome": "2",
+      "cartella": "cartella-mv6gr3y1-rv507t",
+      "descrizione": "Stringa ab, togli secondo e terzo carattere"
     }
   ]
 }
